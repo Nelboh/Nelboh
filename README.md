@@ -2,8 +2,6 @@
 
 I'm a recent graduate of Bristol's DevelopMe_ full stack developer bootcamp, budding front-ender, ex-agency copywriter, and perpetual creative. :art: 
 
-Drop me a line at eshobbs7@gmail.com.
-
 ## About
 
 While I've trained as a full stack developer, my first love is front end. I particularly enjoy combining my art skills with coding by recreating my designs as fully-functioning web pages.
